@@ -25,6 +25,9 @@ Android와 DB 연동을 위해 Spring Boot를 활용하기 위한 공부
 3. 본인의 repository에 와서 branch 바꾸고 **Add file > Create new file** 눌러서 공부 내용 작성   
 (작성 파일의 확장자명은 꼭 **.md**로 해주세용)
 ![image](https://user-images.githubusercontent.com/59243409/118756120-3435fc80-b8a5-11eb-8141-8fe35753b057.png)   
+4. 파일을 작성해서 commit 하면 나현정이 한꺼번에 모아서 pull/push를 할 예정입니다. 그리고 각자 branch 이름으로 폴더를 만들어서 넣어두겠습니다.
+5. 이외에 궁금한 내용이 있으시면 카톡 주세요!!
+
 
 ### 🤩 .md 파일 좀 쉽게 작성하는 법
 1. 각종 IDE에서 .md파일을 생성하면 쉽게 작성할 수 있어요   
