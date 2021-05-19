@@ -17,19 +17,16 @@ Android와 DB 연동을 위해 Spring Boot를 활용하기 위한 공부
 > 공부 노트 : 이 Repository에 branch 나눠서 .md파일 올리면서 진행   
 
 ## 🤪 사용 방법
-1. 본인의 이름 약자로 branch 생성
+1. 본인의 이름 약자로 branch 생성   
 ![image](https://user-images.githubusercontent.com/59243409/118755826-904c5100-b8a4-11eb-8cc5-9d12125bf043.png)
-2. 이 repository를 fork 해서 본인의 깃으로 등록   
-(사실 project repository에서 branch 바꿔서 사용하는게 간편해서 좋기는 한데 본인 repository를 활용하는게 나중에 본인 포폴에 좋으니깐!)
-![image](https://user-images.githubusercontent.com/59243409/118755919-c2f64980-b8a4-11eb-8087-de55799a8fca.png)
-3. 본인의 repository에 와서 branch 바꾸고 **Add file > Create new file** 눌러서 공부 내용 작성   
+3. branch 바꾸고 **Add file > Create new file** 눌러서 공부 내용 작성   
 (작성 파일의 확장자명은 꼭 **.md**로 해주세용)
 ![image](https://user-images.githubusercontent.com/59243409/118756120-3435fc80-b8a5-11eb-8141-8fe35753b057.png)   
-4. 파일을 작성해서 commit   
-5. 그 후에 **Contribute > Open pull request > Create pull request**를 해서 자신이 작성한 내용 merge 요청   
-나중에 나현정 학우가 한 번에 모아서 처리할 예정 (본인 branch 명의 폴더를 만들 예정입니다)
-![image](https://user-images.githubusercontent.com/59243409/118757368-f4bcdf80-b8a7-11eb-881d-3511cd617427.png)
-![image](https://user-images.githubusercontent.com/59243409/118757473-26ce4180-b8a8-11eb-8a94-317cd5aea456.png)
+4. 파일을 작성해서 Commit new file     
+5. 그 후에 **Pull request > Create pull request**를 해서 자신이 작성한 내용 merge 요청   
+나중에 나현정 학우가 한 번에 모아서 처리할 예정 (본인 branch 명의 폴더를 만들 예정입니다)   
+![image](https://user-images.githubusercontent.com/59243409/118759031-284d3900-b8ab-11eb-9cfc-cbf8041883ea.png)
+![image](https://user-images.githubusercontent.com/59243409/118759091-4ca91580-b8ab-11eb-87f9-630e47848c3e.png)
 6. 이외에 궁금한 내용이 있으시면 카톡 주세요!!
 
 
